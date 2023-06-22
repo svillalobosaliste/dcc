@@ -1,0 +1,16 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2023-06-22
+
+### Added
+- Renamed the raw data files
+- Added all the data files together
+- Changed the blank spaces of incubation period to 0
+- Changed all the mass measurements into gramms
+- Removed questionmarks and approximately at number of eggs
+- Used NA instead of unknown in Nest initiation
